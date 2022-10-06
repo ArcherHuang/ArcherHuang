@@ -45,7 +45,12 @@
   - 新北創力坊 InnoSquare - MediaTek LinkIt 7697 物聯網初體驗
   - T 客邦 - Wio Link 物聯網應用開發實作工作坊
   - 經濟部工業局 / 通推處 / 聯發科 / 崑山科技大學 - 大專院校物聯網開發與應用之種子師資培訓
-  - 勞動部勞動力發展署中彰投分署  - 智能遙控自走車 MechaCar、MediaTek LinkIt 7697 之物聯網開發與遠端控制應用 - 使用 Node-RED 與 AWS IoT、智慧盆栽物聯網工作坊、BBC Micro:bit 遊戲實作工作坊、MediaTek  MCS 雲端服務感測資料蒐集與遠端控制工作坊
+  - 勞動部勞動力發展署中彰投分署
+    - 智能遙控自走車 MechaCar
+    - MediaTek LinkIt 7697 之物聯網開發與遠端控制應用 ~ 使用 Node-RED 與 AWS IoT
+    - 智慧盆栽物聯網工作坊
+    - BBC Micro:bit 遊戲實作工作坊
+    - MediaTek  MCS 雲端服務感測資料蒐集與遠端控制工作坊
   - 財團法人資訊工業策進會 - AWS IoT 物聯網雲端整合應用、 IoT 創客實作營、Swift 程式設計、eToy 自走車創客營、國中小 Swift 種子師資培訓
   - Makee.io 國中創客手作潛能激發夏令營
     - Python Coding 工作坊
