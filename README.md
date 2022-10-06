@@ -26,7 +26,8 @@
       - 清邁、清萊 Bangkok、Chiang Mai、Chiang Rai, Thailand（ 2018/5/7 - 2018/5/16 ）
     - 馬來西亞
       - 檳城、怡保 Penang , Ipoh  , Malaysia （ 2017/12/8 - 2017/12/16 ）
-  - 菲律賓 - 巴拉望 Palawan,  Philippines（ 2015/11/6 - 2015/11/10 ) 
+    - 菲律賓 
+      - 巴拉望 Palawan,  Philippines（ 2015/11/6 - 2015/11/10 ) 
   - 埃及 Egypt（ 2018/3/23 - 2018/4/1 ）
 - 🎖 Certifications
   - Microsoft Certified Educator
