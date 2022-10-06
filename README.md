@@ -3,7 +3,8 @@
 - 🌱  List of blogs
   - https://oranwind.org/author/archer/
   - https://learningsky.io/
-- 📫 How to reach me by Email ( mmosconii@gmail.com )
+- 📫 How to reach me 
+  - Email：mmosconii@gmail.com
 
 <!---
 ArcherHuang/ArcherHuang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
