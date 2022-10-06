@@ -46,7 +46,6 @@
   - 亞洲・矽谷學院 - IoT Studio 物聯網應用
   - Flowchain 基金會 與 AI Mining 之 Crypto Night - IoT + 5G 世代 Flowchain 看物聯網的機會與挑戰
   - 新北創力坊 InnoSquare - MediaTek LinkIt 7697 物聯網初體驗
-  - T 客邦 - Wio Link 物聯網應用開發實作工作坊
   - 經濟部工業局 / 通推處 / 聯發科 / 崑山科技大學 - 大專院校物聯網開發與應用之種子師資培訓
   - 勞動部勞動力發展署中彰投分署
     - 智能遙控自走車 MechaCar
@@ -68,7 +67,7 @@
     - 遙控車 Maker 自造工作坊
     - IoT 物聯網體驗工作坊
     - 光劍鑄劍師工作坊
-
+  - T 客邦 - Wio Link 物聯網應用開發實作工作坊
 <!---
 ArcherHuang/ArcherHuang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
