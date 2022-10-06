@@ -6,7 +6,7 @@
 - 📫 How to reach me 
   - Email：mmosconii@gmail.com
 - 🗺 World Travel
-  - 東北亞
+  - 東北亞 Northeast Asia
     - 中國 China
       - 香港 Hong Kong（ 2011 / 12 / 24 - 2011 / 12 / 26 ）
       - 西安 Xi An （ 2016 / 3 / 22 - 2016 / 3 / 29 ）
@@ -16,7 +16,7 @@
       - 沖繩  Okinawa   ( 2015 / 1 / 1 - 2015 / 1 / 5 )
       - 京都 / 大阪 / 神戶 / 奈良  ( 2015 / 4 / 2 - 2015 / 4 / 7 )
       - 東京 Tokyo  ( 2015 / 8 / 6 - 2015 / 8 / 10 )
-  - 東南亞
+  - 東南亞 Southeast Asia
     - 越南 Vietnam
       - 河內 Hanoi （ 2010 / 6 / 30 - 2010 / 9 / 1 ）
     - 新加坡 Singapore （ 2014 / 11 / 6 - 2014 / 11 / 12 ）
@@ -28,7 +28,7 @@
       - 檳城、怡保 Penang、Ipoh （ 2017/12/8 - 2017/12/16 ）
     - 菲律賓 Philippines
       - 巴拉望 Palawan （ 2015/11/6 - 2015/11/10 ) 
-  - 非洲
+  - 非洲 Africa
     - 埃及 Egypt（ 2018/3/23 - 2018/4/1 ）
 - 🎖 Certifications
   - Microsoft Certified Educator
