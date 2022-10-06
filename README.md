@@ -5,7 +5,7 @@
   - https://learningsky.io/
 - 📫 How to reach me 
   - Email：mmosconii@gmail.com
-- Certifications
+- 🎖 Certifications
   - Microsoft Certified Educator
   - iCarnegie Global Learning Certification - STEM EDUCATOR FOR ROBOTICS 
   - Linux Professional Institute Certification Level 1
