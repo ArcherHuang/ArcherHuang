@@ -29,7 +29,8 @@
     - 菲律賓 Philippines
       - 巴拉望 Palawan（ 2015 / 11 / 6 - 2015 / 11 / 10 ) 
   - 非洲 Africa
-    - 埃及 Egypt（ 2018 / 3 / 23 - 2018 / 4 / 1 ）
+    - 埃及 Egypt
+      - 開羅 Cairo、亞斯文 Aswan、康孟波 Kom Ombo、艾得夫 Edfu、路克索 Luxor、虎加達 Hurghada（ 2018 / 3 / 23 - 2018 / 4 / 1 ）
 - 🎖 Certifications
   - Microsoft Certified Educator
   - iCarnegie Global Learning Certification - STEM EDUCATOR FOR ROBOTICS 
