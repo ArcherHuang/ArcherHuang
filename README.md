@@ -5,32 +5,6 @@
   - https://learningsky.io/
 - 📫 How to reach me 
   - Email：mmosconii@gmail.com
-- 🗺 World Travel
-  - 東北亞 Northeast Asia
-    - 中國 China
-      - 香港 Hong Kong（ 2011 / 12 / 24 - 2011 / 12 / 26 ）
-      - 西安 Xi An（ 2016 / 3 / 22 - 2016 / 3 / 29 ）
-      - 湖南長沙 Hu Nan Changsha（ 2017 / 2 / 27 - 2017 / 3 / 6 ）
-      - 西藏 Tibet ( 2019 / 10 / 15 - 2019 / 10 / 26 )
-    - 日本 Japan
-      - 沖繩 Okinawa ( 2015 / 1 / 1 - 2015 / 1 / 5 )
-      - 京都 Kyoto、大阪 Osaka、神戶 Kobe、奈良 Nara ( 2015 / 4 / 2 - 2015 / 4 / 7 )
-      - 東京 Tokyo ( 2015 / 8 / 6 - 2015 / 8 / 10 )
-  - 東南亞 Southeast Asia
-    - 越南 Vietnam
-      - 河內 Hanoi（ 2010 / 6 / 30 - 2010 / 9 / 1 ）
-    - 新加坡 Singapore（ 2014 / 11 / 6 - 2014 / 11 / 12 ）
-    - 泰國 Thailand
-      - 曼谷 Bangkok（ 2017 / 6 / 6 - 2017 / 6 / 9 ）
-      - 芭達雅 Pattaya（ 2018 / 1 / 24 - 2018 / 1 / 30 ）
-      - 清邁 Chiang Mai、清萊 Chiang Rai（ 2018 / 5 / 7 - 2018 / 5 / 16 ）
-    - 馬來西亞 Malaysia
-      - 檳城 Penang、怡保 Ipoh（ 2017 / 12 / 8 - 2017 / 12 / 16 ）
-    - 菲律賓 Philippines
-      - 巴拉望 Palawan（ 2015 / 11 / 6 - 2015 / 11 / 10 ) 
-  - 非洲 Africa
-    - 埃及 Egypt
-      - 開羅 Cairo、亞斯文 Aswan、康孟波 Kom Ombo、艾得夫 Edfu、路克索 Luxor、虎加達 Hurghada（ 2018 / 3 / 23 - 2018 / 4 / 1 ）
 - 🎖 Certifications
   - Microsoft Certified Educator
   - iCarnegie Global Learning Certification - STEM EDUCATOR FOR ROBOTICS 
@@ -81,4 +55,30 @@ ArcherHuang/ArcherHuang is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 💞️ 
 - 👀 I’m interested in ...
+- 🗺 World Travel
+  - 東北亞 Northeast Asia
+    - 中國 China
+      - 香港 Hong Kong（ 2011 / 12 / 24 - 2011 / 12 / 26 ）
+      - 西安 Xi An（ 2016 / 3 / 22 - 2016 / 3 / 29 ）
+      - 湖南長沙 Hu Nan Changsha（ 2017 / 2 / 27 - 2017 / 3 / 6 ）
+      - 西藏 Tibet ( 2019 / 10 / 15 - 2019 / 10 / 26 )
+    - 日本 Japan
+      - 沖繩 Okinawa ( 2015 / 1 / 1 - 2015 / 1 / 5 )
+      - 京都 Kyoto、大阪 Osaka、神戶 Kobe、奈良 Nara ( 2015 / 4 / 2 - 2015 / 4 / 7 )
+      - 東京 Tokyo ( 2015 / 8 / 6 - 2015 / 8 / 10 )
+  - 東南亞 Southeast Asia
+    - 越南 Vietnam
+      - 河內 Hanoi（ 2010 / 6 / 30 - 2010 / 9 / 1 ）
+    - 新加坡 Singapore（ 2014 / 11 / 6 - 2014 / 11 / 12 ）
+    - 泰國 Thailand
+      - 曼谷 Bangkok（ 2017 / 6 / 6 - 2017 / 6 / 9 ）
+      - 芭達雅 Pattaya（ 2018 / 1 / 24 - 2018 / 1 / 30 ）
+      - 清邁 Chiang Mai、清萊 Chiang Rai（ 2018 / 5 / 7 - 2018 / 5 / 16 ）
+    - 馬來西亞 Malaysia
+      - 檳城 Penang、怡保 Ipoh（ 2017 / 12 / 8 - 2017 / 12 / 16 ）
+    - 菲律賓 Philippines
+      - 巴拉望 Palawan（ 2015 / 11 / 6 - 2015 / 11 / 10 ) 
+  - 非洲 Africa
+    - 埃及 Egypt
+      - 開羅 Cairo、亞斯文 Aswan、康孟波 Kom Ombo、艾得夫 Edfu、路克索 Luxor、虎加達 Hurghada（ 2018 / 3 / 23 - 2018 / 4 / 1 ）
 --->
