@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @ArcherHuang
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 💞️ List of blogs
+  - https://oranwind.org/author/archer/
+  - https://learningsky.io/
 - 📫 How to reach me by Email ( mmosconii@gmail.com )
 
 <!---
