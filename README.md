@@ -25,7 +25,7 @@
       - 芭達雅 Pattaya（ 2018 / 1 / 24 - 2018 / 1 / 30 ）
       - 清邁 Chiang Mai、清萊 Chiang Rai（ 2018 / 5 / 7 - 2018 / 5 / 16 ）
     - 馬來西亞 Malaysia
-      - 檳城、怡保 Penang、Ipoh （ 2017 / 12 / 8 - 2017 / 12 / 16 ）
+      - 檳城 Penang、怡保 Ipoh（ 2017 / 12 / 8 - 2017 / 12 / 16 ）
     - 菲律賓 Philippines
       - 巴拉望 Palawan（ 2015 / 11 / 6 - 2015 / 11 / 10 ) 
   - 非洲 Africa
