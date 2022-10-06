@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ArcherHuang
   - Having being a engineer. Experience with Node.js, Linkit Smart 7697, micro:bit, Raspberry Pi, NVIDIA Xavier, Azure, AWS, IoT solutions.
-- 🌱  List of blogs
+- 🌱 Blogs
   - https://oranwind.org/author/archer/
   - https://learningsky.io/
 - 📫 How to reach me 
