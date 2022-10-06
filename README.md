@@ -41,7 +41,15 @@
   - 臺北市立松山家商 - 物聯網與大數據專題師資培訓
   - 文化大學資訊管理系 - Python 程式設計
   - 龍華科技大學 - 物聯網問題解決導向專班、物聯網與大數據專題
-  - 財團法人資訊工業策進會扎根學院 - IoT 種子師資培訓、Swift 程式設計種子師資培訓
+  - 財團法人資訊工業策進會
+    - 扎根學院
+      - IoT 種子師資培訓
+      - Swift 程式設計種子師資培訓
+    - AWS IoT 物聯網雲端整合應用
+    - IoT 創客實作營
+    - Swift 程式設計
+    - eToy 自走車創客營
+    - 國中小 Swift 種子師資培訓
   - 臺北市酷課學園網路學校 - 在 iPad 上，打 Game 學程式 : Swift 樂園
   - 亞洲・矽谷學院 - IoT Studio 物聯網應用
   - Flowchain 基金會 與 AI Mining 之 Crypto Night - IoT + 5G 世代 Flowchain 看物聯網的機會與挑戰
@@ -55,12 +63,6 @@
     - 智慧盆栽物聯網工作坊
     - BBC Micro:bit 遊戲實作工作坊
     - MediaTek  MCS 雲端服務感測資料蒐集與遠端控制工作坊
-  - 財團法人資訊工業策進會
-    - AWS IoT 物聯網雲端整合應用
-    - IoT 創客實作營
-    - Swift 程式設計
-    - eToy 自走車創客營
-    - 國中小 Swift 種子師資培訓
   - Makee.io 國中創客手作潛能激發夏令營
     - Python Coding 工作坊
     - 遙控車 Maker 自造工作坊
