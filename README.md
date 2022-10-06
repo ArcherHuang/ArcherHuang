@@ -16,6 +16,7 @@
   - Juniper Networks Certified Associate Enterprise Switching Track
   - Juniper Networks Certified Specialist Enterprise Routing Track
   - Juniper Networks Certified Specialist JUNOS Security Track
+- 📣 Keynote Speaker
 <!---
 ArcherHuang/ArcherHuang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
