@@ -40,11 +40,11 @@
   - 國立高雄科技大學土木工程系 - IoT 與智慧建築工作坊
   - 臺北市立松山家商 - 物聯網與大數據專題師資培訓
   - 文化大學資訊管理系 - Python 程式設計
+  - Program the World 愛自造者學習協會  - 偏鄉教育自走車營隊
   - 龍華科技大學 - 物聯網問題解決導向專班、物聯網與大數據專題
   - 臺北市酷課學園網路學校 - 在 iPad 上，打 Game 學程式 : Swift 樂園
   - 亞洲・矽谷學院 - IoT Studio 物聯網應用
   - Flowchain 基金會 與 AI Mining 之 Crypto Night - IoT + 5G 世代 Flowchain 看物聯網的機會與挑戰
-  - Program the World 愛自造者學習協會  - 偏鄉教育自走車營隊
   - 新北創力坊 InnoSquare - MediaTek LinkIt 7697 物聯網初體驗
   - T 客邦 - Wio Link 物聯網應用開發實作工作坊
   - 經濟部工業局 / 通推處 / 聯發科 / 崑山科技大學 - 大專院校物聯網開發與應用之種子師資培訓
