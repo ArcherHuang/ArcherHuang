@@ -6,21 +6,26 @@
 - 📫 How to reach me 
   - Email：mmosconii@gmail.com
 - 🗺 World Travel
-  - 越南 - 河內 Hanoi, Vietnam（ 2010 / 6 / 30 - 2010 / 9 / 1 ）
-  - 中國 - 香港 Hong Kong, China（ 2011 / 12 / 24 - 2011 / 12 / 26 ）
+  - 越南
+    - 河內 Hanoi, Vietnam（ 2010 / 6 / 30 - 2010 / 9 / 1 ）
+  - 中國
+    - 香港 Hong Kong, China（ 2011 / 12 / 24 - 2011 / 12 / 26 ）
+    - 西安 Xi An, China （ 2016 / 3 / 22 - 2016 / 3 / 29 ）
+    - 湖南長沙 Hu Nan Changsha, China（2017/2/27 - 2017/3/6）
+    - 西藏 Tibet, China ( 2019/10/15 - 2019/10/26 )
   - 新加坡 Singapore （ 2014 / 11 / 6 - 2014 / 11 / 12 ）
-  - 日本 - 沖繩  Okinawa, Japan  ( 2015 / 1 / 1 - 2015 / 1 / 5 )
-  - 日本 - 京都 / 大阪 / 神戶 / 奈良, Japan  ( 2015 / 4 / 2 - 2015 / 4 / 7 )
-  - 日本 - 東京 Tokyo, Japan  ( 2015 / 8 / 6 - 2015 / 8 / 10 )
+  - 日本 
+    - 沖繩  Okinawa, Japan  ( 2015 / 1 / 1 - 2015 / 1 / 5 )
+    - 京都 / 大阪 / 神戶 / 奈良, Japan  ( 2015 / 4 / 2 - 2015 / 4 / 7 )
+    - 東京 Tokyo, Japan  ( 2015 / 8 / 6 - 2015 / 8 / 10 )
   - 菲律賓 - 巴拉望 Palawan,  Philippines（ 2015/11/6 - 2015/11/10 ) 
-  - 中國 - 西安 Xi An, China （ 2016 / 3 / 22 - 2016 / 3 / 29 ）
-  - 中國 - 湖南長沙 Hu Nan Changsha, China（2017/2/27 - 2017/3/6）
-  - 泰國 - 曼谷 Bangkok, Thailand （ 2017/6/6 - 2017/6/9 ）
-  - 馬來西亞 - 檳城、怡保 Penang , Ipoh  , Malaysia （ 2017/12/8 - 2017/12/16 ）
-  - 泰國 - 曼谷、芭達雅 Bangkok、Pattaya  , Thailand （ 2018/1/24 - 2018/1/30 ）
+  - 泰國
+    - 曼谷 Bangkok, Thailand （ 2017/6/6 - 2017/6/9 ）
+    - 芭達雅 Pattaya, Thailand （ 2018/1/24 - 2018/1/30 ）
+    - 清邁、清萊 Bangkok、Chiang Mai、Chiang Rai, Thailand（ 2018/5/7 - 2018/5/16 ）
+  - 馬來西亞
+    - 檳城、怡保 Penang , Ipoh  , Malaysia （ 2017/12/8 - 2017/12/16 ）
   - 埃及 Egypt（ 2018/3/23 - 2018/4/1 ）
-  - 泰國 - 曼谷、清邁、清萊 Bangkok、Chiang Mai、Chiang Rai, Thailand（ 2018/5/7 - 2018/5/16 ）
-  - 中國 - 西藏 Tibet, China ( 2019/10/15 - 2019/10/26 )
 - 🎖 Certifications
   - Microsoft Certified Educator
   - iCarnegie Global Learning Certification - STEM EDUCATOR FOR ROBOTICS 
