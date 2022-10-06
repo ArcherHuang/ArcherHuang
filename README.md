@@ -33,15 +33,19 @@
   - Juniper Networks Certified Specialist Enterprise Routing Track
   - Juniper Networks Certified Specialist JUNOS Security Track
 - 📣 Keynote Speaker
+  - 國立台灣大學電機工程系 - 物聯網導論
+  - 文化大學資訊管理系 - Python 程式設計
+  - 國立臺北市立大學資訊科學系 - iOS 行動裝置程式設計工作坊
+  - 國立高雄科技大學土木工程系 - IoT 與智慧建築工作坊
+  - 國立成功大學機械工程學系 - 工業物聯網資料收集與視覺化之理論與實務案例
+  - 國立台北科技大學互動設計系 - 物聯網概論與實作 Cloud Edge Device
+  - 臺北市立松山家商 - 物聯網與大數據專題師資培訓
+  - 龍華科技大學 - 物聯網問題解決導向專班、物聯網與大數據專題
   - 財團法人資訊工業策進會扎根學院 - IoT 種子師資培訓、Swift 程式設計種子師資培訓
   - 臺北市酷課學園網路學校 - 在 iPad 上，打 Game 學程式 : Swift 樂園
   - 亞洲・矽谷學院 - IoT Studio 物聯網應用
   - Flowchain 基金會 與 AI Mining 之 Crypto Night - IoT + 5G 世代 Flowchain 看物聯網的機會與挑戰
-  - 國立成功大學機械工程學系 - 工業物聯網資料收集與視覺化之理論與實務案例
-  - 國立台北科技大學互動設計系 - 物聯網概論與實作 Cloud Edge Device
   - Program the World 愛自造者學習協會  - 偏鄉教育自走車營隊
-  - 臺北市立松山家商 - 物聯網與大數據專題師資培訓
-  - 龍華科技大學 - 物聯網問題解決導向專班、物聯網與大數據專題
   - 新北創力坊 InnoSquare - MediaTek LinkIt 7697 物聯網初體驗
   - T 客邦 - Wio Link 物聯網應用開發實作工作坊
   - 經濟部工業局 / 通推處 / 聯發科 / 崑山科技大學 - 大專院校物聯網開發與應用之種子師資培訓
@@ -62,10 +66,7 @@
     - 遙控車 Maker 自造工作坊
     - IoT 物聯網體驗工作坊
     - 光劍鑄劍師工作坊
-  - 國立台灣大學電機工程系 - 物聯網導論
-  - 文化大學資訊管理系 - Python 程式設計
-  - 國立臺北市立大學資訊科學系 - iOS 行動裝置程式設計工作坊
-  - 國立高雄科技大學土木工程系 - IoT 與智慧建築工作坊
+
 <!---
 ArcherHuang/ArcherHuang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
