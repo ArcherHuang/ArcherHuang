@@ -3,6 +3,7 @@
 - 📫 How to reach me 
   - Email：mmosconii@gmail.com
 - 🎖 Certifications
+  <!--- CSSLP ( Certified Secure Software Lifecycle Professional ) ---> 
   - Microsoft Certified Educator
   - iCarnegie Global Learning Certification - STEM EDUCATOR FOR ROBOTICS 
   - Linux Professional Institute Certification Level 1
