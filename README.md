@@ -2,21 +2,6 @@
   - Having being a engineer. Experience with Node.js, Linkit Smart 7697, micro:bit, Raspberry Pi, NVIDIA Xavier, Azure, AWS, IoT solutions.
 - 📫 How to reach me 
   - Email：mmosconii@gmail.com
-- 🌱 Skills
-  - Cloud Service
-    - Microsoft Azure ( Azure Static Web Apps、App Service、Storage accounts、Azure IoT Hub、Azure Digital Twins、Azure Maps、Azure Database for PostgreSQL server、Function App、Azure Container Registry、Azure Automation、Azure Container Apps、Azure Machine Learning、Azure Kubernetes Service )
-  - Development Board
-    - NVIDIA Jetson AGX Xavier | NXP i.MX 8QuadMax MEK CPU Board | Raspberry Pi | MediaTek LinkIt 7697 | MediaTek LinkIt Smart 7688 | MediaTek LinkIt 7697 | BBC Micro:bit | Intel Edison | Wio Link | Wio Node
-  - Programming Language
-    - Objective-C | Node.js | Python |  Perl | Vue | App Inventor | BlocklyDuino
-  - Message Queue Broker
-    - MSMQ | Kafka | Mosquitto | Nats
-  - Edge
-    - Azure IoT Edge | EdgeX
-  - Database
-    - PostgreSQL | MongoDB | SQLite
-  - Tools
-    - Docker | Node-RED
 - 🎖 Certifications
   <!--- CSSLP ( Certified Secure Software Lifecycle Professional ) ---> 
   - Microsoft Certified Educator
@@ -67,6 +52,21 @@
 ArcherHuang/ArcherHuang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 💞️ 
+- 🌱 Skills
+  - Cloud Service
+    - Microsoft Azure ( Azure Static Web Apps、App Service、Storage accounts、Azure IoT Hub、Azure Digital Twins、Azure Maps、Azure Database for PostgreSQL server、Function App、Azure Container Registry、Azure Automation、Azure Container Apps、Azure Machine Learning、Azure Kubernetes Service )
+  - Development Board
+    - NVIDIA Jetson AGX Xavier | NXP i.MX 8QuadMax MEK CPU Board | Raspberry Pi | MediaTek LinkIt 7697 | MediaTek LinkIt Smart 7688 | MediaTek LinkIt 7697 | BBC Micro:bit | Intel Edison | Wio Link | Wio Node
+  - Programming Language
+    - Objective-C | Node.js | Python |  Perl | Vue | App Inventor | BlocklyDuino
+  - Message Queue Broker
+    - MSMQ | Kafka | Mosquitto | Nats
+  - Edge
+    - Azure IoT Edge | EdgeX
+  - Database
+    - PostgreSQL | MongoDB | SQLite
+  - Tools
+    - Docker | Node-RED
 - 🌱 Blogs
   - https://oranwind.org/author/archer/
   - https://learningsky.io/
