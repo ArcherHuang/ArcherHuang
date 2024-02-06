@@ -5,8 +5,6 @@
 - 🎖 Certifications
   <!--- CSSLP ( Certified Secure Software Lifecycle Professional ) --->
 
-  ![Azure Administrator](https://github.com/ArcherHuang/ArcherHuang/blob/main/Certification/Azure%20Administrator%20Associate.png)
-
   - Microsoft Azure Administrator Associate
   - Microsoft Certified Educator
   - iCarnegie Global Learning Certification - STEM EDUCATOR FOR ROBOTICS 
