@@ -10,7 +10,7 @@
   <!--- - Microsoft Azure Solutions Architect Expert ( AZ-305 )--->
   <!--- - Microsoft Azure DevOps Engineer Expert ( AZ-400 )--->
   <!--- - Microsoft Azure Security Engineer Associate ( AZ-500 ) --->
-  - Microsoft Azure Administrator Associate
+  - [Microsoft Azure Administrator Associate](https://learn.microsoft.com/api/credentials/share/zh-tw/26705861/80857A2D1587D289?sharingId=390F9DBFEC33EFC1)
   <!--- - Microsoft Azure Developer Associate ( AZ-204 ) --->
   <!--- - Microsoft Azure Data Scientist Associate ( DP-100 ) --->
   - Microsoft Certified Educator
