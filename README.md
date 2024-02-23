@@ -6,7 +6,8 @@
   <!--- CSSLP ( Certified Secure Software Lifecycle Professional ) --->
 
   ![](https://github.com/ArcherHuang/ArcherHuang/blob/main/Certification/Azure%20Administrator%20Associate.png)
-
+  ![](https://github.com/ArcherHuang/ArcherHuang/blob/main/Certification/Azure%20DevOps%20Engineer%20Expert.png))
+  
   <!--- - Microsoft Azure Solutions Architect Expert ( AZ-305 )--->
   - Microsoft Azure DevOps Engineer Expert [【 Badge 】](https://learn.microsoft.com/api/credentials/share/zh-tw/26705861/2ACDDA961D3E98AD?sharingId=390F9DBFEC33EFC1)
   <!--- - Microsoft Azure Security Engineer Associate ( AZ-500 ) --->
