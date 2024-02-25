@@ -12,10 +12,10 @@
   
   <!--- - Microsoft Azure Solutions Architect Expert [【 Badge 】]()--->
   - Microsoft Azure DevOps Engineer Expert [【 Badge 】](https://learn.microsoft.com/api/credentials/share/zh-tw/26705861/2ACDDA961D3E98AD?sharingId=390F9DBFEC33EFC1)
-  <!--- - Microsoft Azure Security Engineer Associate ( AZ-500 ) --->
+  <!--- - Microsoft Azure Security Engineer Associate ( AZ-500 ) [【 Badge 】]()--->
   - Microsoft Azure Administrator Associate [【 Badge 】](https://learn.microsoft.com/api/credentials/share/zh-tw/26705861/80857A2D1587D289?sharingId=390F9DBFEC33EFC1)
-  <!--- - Microsoft Azure Developer Associate ( AZ-204 ) --->
-  <!--- - Microsoft Azure Data Scientist Associate ( DP-100 ) --->
+  <!--- - Microsoft Azure Developer Associate ( AZ-204 ) [【 Badge 】]()--->
+  <!--- - Microsoft Azure Data Scientist Associate ( DP-100 ) [【 Badge 】]()--->
   - Microsoft Certified Educator
   - iCarnegie Global Learning Certification - STEM EDUCATOR FOR ROBOTICS 
   - Linux Professional Institute Certification Level 1
