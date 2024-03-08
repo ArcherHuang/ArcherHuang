@@ -10,7 +10,7 @@
   ![](https://github.com/ArcherHuang/ArcherHuang/blob/main/Certification/Azure%20Administrator%20Associate.png)
   
   <!--- - Microsoft Certified: Cybersecurity Architect Expert ( SC-100 ) [【 Badge 】]()--->
-  <!--- - Microsoft Certified: Azure Solutions Architect Expert [【 Badge 】]()--->
+  - Microsoft Certified: Azure Solutions Architect Expert [【 Badge 】](https://learn.microsoft.com/api/credentials/share/zh-tw/26705861/78FCDC6AD7807BAB?sharingId=390F9DBFEC33EFC1)
   - Microsoft Certified: DevOps Engineer Expert [【 Badge 】](https://learn.microsoft.com/api/credentials/share/zh-tw/26705861/2ACDDA961D3E98AD?sharingId=390F9DBFEC33EFC1)
   <!--- - Microsoft Azure Security Engineer Associate ( AZ-500 ) [【 Badge 】]()--->
   - Microsoft Certified: Azure Administrator Associate [【 Badge 】](https://learn.microsoft.com/api/credentials/share/zh-tw/26705861/80857A2D1587D289?sharingId=390F9DBFEC33EFC1)
