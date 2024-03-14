@@ -17,6 +17,7 @@
   - Microsoft Certified: Azure Administrator Associate [【 Badge 】](https://learn.microsoft.com/api/credentials/share/zh-tw/26705861/80857A2D1587D289?sharingId=390F9DBFEC33EFC1)
   <!--- - Microsoft Azure Security Engineer Associate ( AZ-500 ) [【 Badge 】]()--->
   <!--- - Microsoft Azure Developer Associate ( AZ-204 ) [【 Badge 】]()--->
+  <!--- - Microsoft Certified: Azure AI Engineer Associate ( AI-102 ) [【 Badge 】]()--->
   <!--- - Microsoft Azure Data Scientist Associate ( DP-100 ) [【 Badge 】]()--->
   <!--- - EC-Council Certified Threat Intelligence Analyst ( EC-Council CTIA ) [【 Badge 】]()--->
   <!--- - EC-Council Certified Security Operations Center Analyst ( EC-Council CSA ) [【 Badge 】]()--->
