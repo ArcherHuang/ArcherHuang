@@ -16,6 +16,7 @@
   <!--- - Microsoft Certified: Cybersecurity Architect Expert ( SC-100 ) [【 Badge 】]()--->
   - Microsoft Certified: Azure Administrator Associate [【 Badge 】](https://learn.microsoft.com/api/credentials/share/zh-tw/26705861/80857A2D1587D289?sharingId=390F9DBFEC33EFC1)
   <!--- - Microsoft Certified: Azure AI Engineer Associate ( AI-102 ) [【 Badge 】]()--->
+  <!--- - Microsoft Certified: Azure Data Scientist Associate ( DP-100 ) [【 Badge 】]()--->
   <!--- - Microsoft Azure Security Engineer Associate ( AZ-500 ) [【 Badge 】]()--->
   <!--- - Microsoft Azure Developer Associate ( AZ-204 ) [【 Badge 】]()--->
   <!--- - Microsoft Azure Data Scientist Associate ( DP-100 ) [【 Badge 】]()--->
