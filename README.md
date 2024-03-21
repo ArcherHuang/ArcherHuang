@@ -19,7 +19,6 @@
   <!--- - Microsoft Certified: Azure Data Scientist Associate ( DP-100 ) [【 Badge 】]()--->
   <!--- - Microsoft Azure Security Engineer Associate ( AZ-500 ) [【 Badge 】]()--->
   <!--- - Microsoft Azure Developer Associate ( AZ-204 ) [【 Badge 】]()--->
-  <!--- - Microsoft Azure Data Scientist Associate ( DP-100 ) [【 Badge 】]()--->
   <!--- - EC-Council Certified Threat Intelligence Analyst ( EC-Council CTIA ) [【 Badge 】]()--->
   <!--- - EC-Council Certified Security Operations Center Analyst ( EC-Council CSA ) [【 Badge 】]()--->
   <!--- - EC-Council Disaster Recovery Professional ( EC-Council EDRP ) [【 Badge 】]()--->
