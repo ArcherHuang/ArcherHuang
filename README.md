@@ -12,7 +12,7 @@
   ![](https://github.com/ArcherHuang/ArcherHuang/blob/main/Certification/Azure%20Administrator%20Associate.png)
   ![](https://github.com/ArcherHuang/ArcherHuang/blob/main/Certification/Azure%20AI%20Engineer%20Associate.png)
 
-  - ISO/IEC 27001:2022 Information security management systems (ISMS)
+  - ISO/IEC 27001:2022 Information security management systems ( ISMS )
   - Microsoft Certified: Azure Solutions Architect Expert [【 Badge 】](https://learn.microsoft.com/api/credentials/share/zh-tw/26705861/78FCDC6AD7807BAB?sharingId=390F9DBFEC33EFC1)
   - Microsoft Certified: DevOps Engineer Expert [【 Badge 】](https://learn.microsoft.com/api/credentials/share/zh-tw/26705861/2ACDDA961D3E98AD?sharingId=390F9DBFEC33EFC1)
   <!--- - Microsoft Certified: Cybersecurity Architect Expert ( SC-100 ) [【 Badge 】]()--->
