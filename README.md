@@ -123,4 +123,7 @@ You can click the Preview link to take a look at your changes.
   - 非洲 Africa
     - 埃及 Egypt
       - 開羅 Cairo、亞斯文 Aswan、康孟波 Kom Ombo、艾得夫 Edfu、路克索 Luxor、虎加達 Hurghada（ 2018 / 3 / 23 - 2018 / 4 / 1 ）
+  - 亞洲次大陸
+    - 印度
+      - 列城、拉達克 ( 2025 / 7 / 11 - 2025 / 7 / 24 )
 --->
