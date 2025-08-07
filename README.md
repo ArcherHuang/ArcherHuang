@@ -74,6 +74,7 @@
     - IoT 物聯網體驗工作坊
     - 光劍鑄劍師工作坊
   - T 客邦 - Seeed Studio Wio Link 物聯網應用開發實作工作坊
+<!---
 - 🗺 World Travel
   - 東北亞 Northeast Asia
     - 中國 China
@@ -103,7 +104,7 @@
   - 亞洲次大陸
     - 印度
       - 列城 拉達克 Leh Ladakh ( 2025 / 7 / 11 - 2025 / 7 / 24 )
-<!---
+
 ArcherHuang/ArcherHuang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 💞️ 
