@@ -75,6 +75,8 @@
     - IoT 物聯網體驗工作坊
     - 光劍鑄劍師工作坊
   - T 客邦 - Seeed Studio Wio Link 物聯網應用開發實作工作坊
+- 🗺 World Travel
+  - https://github.com/ArcherHuang/Go-Traveling 
 <!---
 - 🗺 World Travel
   - 東北亞 Northeast Asia
