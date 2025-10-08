@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ArcherHuang
-  - Software Engineer in full-stack development, cross-platform application development (Windows、macOS、Ubuntu), system architecture, and team leadership. Proven track record of delivering solutions for enterprise-level applications, with expertise in modern web technologies, cloud platforms.
+  - Software Engineer in full-stack development, cross-platform application development (Windows、macOS、Ubuntu), system architecture, and team leadership. Proven track record of delivering solutions for enterprise-level applications, with expertise in modern web technologies, cloud platforms, IoT solutions.
   <!--- -  Having being a engineer. Experience with Node.js, Linkit Smart 7697, micro:bit, Raspberry Pi, NVIDIA Xavier, Azure, AWS, IoT solutions. --->
 - 📫 How to reach me 
   - Email：mmosconii@gmail.com
