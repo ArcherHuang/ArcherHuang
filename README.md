@@ -41,7 +41,7 @@
   - Juniper Networks Certified Associate Enterprise Switching Track
   - Juniper Networks Certified Specialist Enterprise Routing Track
   - Juniper Networks Certified Specialist JUNOS Security Track
-- 🎯 Slogan
+- 🎯 Target
   - 以數據精確性為核心，致力於最小化人為干預，並最大化流程自動化。
 - 📣 Keynote Speaker
   - 國立台灣大學電機工程系 - 物聯網導論
