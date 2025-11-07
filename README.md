@@ -3,6 +3,8 @@
   <!--- -  Having being a engineer. Experience with Node.js, Linkit Smart 7697, micro:bit, Raspberry Pi, NVIDIA Xavier, Azure, AWS, IoT solutions. --->
 - 📫 How to reach me 
   - Email：mmosconii@gmail.com
+- 🎯 Target
+  - 以數據精確性為核心，致力於最小化人為干預，並最大化流程自動化。
 - 🎖 Certifications
   <!--- CSSLP ( Certified Secure Software Lifecycle Professional ) --->
 
@@ -41,8 +43,6 @@
   - Juniper Networks Certified Associate Enterprise Switching Track
   - Juniper Networks Certified Specialist Enterprise Routing Track
   - Juniper Networks Certified Specialist JUNOS Security Track
-- 🎯 Target
-  - 以數據精確性為核心，致力於最小化人為干預，並最大化流程自動化。
 - 📣 Keynote Speaker
   - 國立台灣大學電機工程系 - 物聯網導論
   - 國立成功大學機械工程學系 - 工業物聯網資料收集與視覺化之理論與實務案例
