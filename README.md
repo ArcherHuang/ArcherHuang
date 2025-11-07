@@ -42,7 +42,7 @@
   - Juniper Networks Certified Specialist Enterprise Routing Track
   - Juniper Networks Certified Specialist JUNOS Security Track
 - 🎯 Slogan
-  - 確立數據精確性為核心前提，致力於人為干預之最小化與流程自動化之最大化。
+  - 以數據精確性為核心，致力於最小化人為干預，並最大化流程自動化。
 - 📣 Keynote Speaker
   - 國立台灣大學電機工程系 - 物聯網導論
   - 國立成功大學機械工程學系 - 工業物聯網資料收集與視覺化之理論與實務案例
