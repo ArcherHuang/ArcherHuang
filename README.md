@@ -17,7 +17,7 @@
   ![](https://github.com/ArcherHuang/ArcherHuang/blob/main/Certification/Azure%20AI%20Engineer%20Associate.png)
 
   - ISO/IEC 42001:2023 Lead Auditor, Artificial Intelligence Management System ( AIMS )
-  - ISO/IEC 27001:2022 Lead Auditor, Information security management systems ( ISMS )
+  - ISO/IEC 27001:2022 Lead Auditor, Information Security Management Systems ( ISMS )
   - Microsoft Certified: Azure Solutions Architect Expert 
   <!-- [【 Badge 】](https://learn.microsoft.com/api/credentials/share/zh-tw/26705861/78FCDC6AD7807BAB?sharingId=390F9DBFEC33EFC1) -->
   - Microsoft Certified: DevOps Engineer Expert 
