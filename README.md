@@ -16,8 +16,8 @@
   ![](https://github.com/ArcherHuang/ArcherHuang/blob/main/Certification/Azure%20Administrator%20Associate.png)
   ![](https://github.com/ArcherHuang/ArcherHuang/blob/main/Certification/Azure%20AI%20Engineer%20Associate.png)
 
-  - ISO/IEC 17025：2017 實驗室主管實務訓練
-  - ISO/IEC 17025：2017 實驗室品質管理訓練
+  - ISO/IEC 17025:2017 實驗室主管實務訓練
+  - ISO/IEC 17025:2017 實驗室品質管理訓練
   - ISO/IEC 42001:2023 Lead Auditor, Artificial Intelligence Management System ( AIMS )
   - ISO/IEC 27001:2022 Lead Auditor, Information Security Management System ( ISMS )
   - Microsoft Certified: Azure Solutions Architect Expert 
