@@ -5,7 +5,7 @@
   - Email：mmosconii@gmail.com
 - 🎯 Target
   - 以數據精確性為核心，致力於最小化人為干預，並最大化流程自動化。
-- 🏆
+- 🏆 獎項
   - 2026 AI Award Best Solution 特優賞  
 - 🎖 Certifications
   <!--- CSSLP ( Certified Secure Software Lifecycle Professional ) --->
