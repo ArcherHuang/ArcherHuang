@@ -6,7 +6,7 @@
 - 🎯 Target
   - 以數據精確性為核心，致力於最小化人為干預，並最大化流程自動化。
 - 🏆 Awards
-  - 台灣人工智慧協會 2026 AI Award Best Solution 特優賞 - 可信任 AI 自動化評估與淨零碳智慧計量技術
+  - 台灣人工智慧協會 2026 AI Award Best Solution 特優獎 - 可信任 AI 自動化評估與淨零碳智慧計量技術
 - 🎖 Certifications
   <!--- CSSLP ( Certified Secure Software Lifecycle Professional ) --->
 
