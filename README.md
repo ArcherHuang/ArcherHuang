@@ -10,6 +10,7 @@
 - 🎖 Certifications
   <!--- CSSLP ( Certified Secure Software Lifecycle Professional ) --->
 
+  ![](https://github.com/ArcherHuang/ArcherHuang/blob/main/Certification/Plus_PenTest_Certification.png)
   ![](https://github.com/ArcherHuang/ArcherHuang/blob/main/Certification/ISO-42001.png)
   ![](https://github.com/ArcherHuang/ArcherHuang/blob/main/Certification/ISO27001-2022.png)
   ![](https://github.com/ArcherHuang/ArcherHuang/blob/main/Certification/MCE.png)
