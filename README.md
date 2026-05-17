@@ -18,7 +18,9 @@
   ![](https://github.com/ArcherHuang/ArcherHuang/blob/main/Certification/Azure%20DevOps%20Engineer%20Expert.png)
   ![](https://github.com/ArcherHuang/ArcherHuang/blob/main/Certification/Azure%20Administrator%20Associate.png)
   ![](https://github.com/ArcherHuang/ArcherHuang/blob/main/Certification/Azure%20AI%20Engineer%20Associate.png)
-
+  ![](https://github.com/ArcherHuang/ArcherHuang/blob/main/Certification/LPIC-2.png)
+  ![](https://github.com/ArcherHuang/ArcherHuang/blob/main/Certification/LPIC-1.png)
+  
   - CompTIA PenTest＋
   - ISO/IEC 17025:2017 實驗室主管實務訓練
   - ISO/IEC 17025:2017 實驗室品質管理訓練
